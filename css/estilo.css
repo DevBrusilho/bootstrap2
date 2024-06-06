@@ -1,0 +1,25 @@
+:root{
+	--cor1: rgb(255, 205, 40);
+	--cor2: rgba(1, 30, 83, 0.8);
+	--cor3: rgb(6, 34, 196);
+	--cor4: #0b448e;
+	--cor5: rgb(9, 111, 179);
+  }
+body{
+	background-image: url(../imagens/fundo.jpg);
+  	background-size:cover;
+  	background-position:center right;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+header{
+	margin-top: 70px;
+}
+
+.center{
+	margin: auto;
+	text-align: center;
+}
+.bg-dark{
+	background-color: rgb(255, 205, 40) !important;
+}
